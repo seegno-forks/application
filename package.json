@@ -34,6 +34,6 @@
     "selenium-webdriver": "2.45.1"
   },
   "scripts": {
-    "test": "node node_modules/mocha/bin/mocha --recursive t/*"
+    "test": "node node_modules/mocha/bin/mocha --recursive t/integration/crud_leave_type.js"
   }
 }
